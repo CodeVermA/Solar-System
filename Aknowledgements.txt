@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Kinetic_energy#:~:text=With%20vectors%20and%20calculus,-The%20work%20done&text=This%20equation%20states%20that%20the,is%20at%20rest%20(motionless).
+
+https://matplotlib.org/
+https://numpy.org/
+https://thepythoncodingbook.com/2021/12/11/simulating-3d-solar-system-python-matplotlib/
+https://towardsdatascience.com/simulate-a-tiny-solar-system-with-python-fbbb68d8207b

@@ -1,0 +1,38 @@
+#Gravitational Constant
+0.000118638
+
+#Mass of Sun
+332946
+
+#Original Orbital Periods of inner 4 Planets
+88/365, 225/365, 1, 687/365
+
+#Mercury Details (name, colour, mass, orbital radius)
+Mercury, gray, 0.06, 0.387
+
+#Venus Details (name, colour, mass, orbital radius)
+Venus, orange, 0.82, 0.723
+
+#Earth Details (name, colour, mass, orbital radius)
+Earth, blue, 1, 1
+
+#Mars Details (name, colour, mass, orbital radius)
+Mars, red, 0.11, 1.524
+
+#Jupiter Details (name, colour, mass, orbital radius)
+#Jupiter, brown, 318, 5.2
+
+#Saturn Details (name, colour, mass, orbital radius)
+#Saturn, pink, 95, 9.5
+
+#Uranus Details (name, colour, mass, orbital radius)
+#Uranus, purple, 14, 19.2
+
+#Neptune Details (name, colour, mass, orbital radius)
+#Neptune, blue, 17, 30.1
+
+#Satelite Details (name, colour, mass, orbital radius)
+#Satelite, black, 6.11*(10**(-22)), 0
+
+#Earth Radius
+#0.0000425869
